@@ -32,9 +32,9 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-1- [Desktop-preview-screenshot](./public/screenshots/Desktop-view-screenshot.png)
+1- ![Desktop-preview-screenshot](./public/screenshots/Desktop-view-screenshot.png)
 
-2- [Mobile-preview-screenshot](./public/screenshots/Mobile-view-screenshot.png)
+2- ![Mobile-preview-screenshot](./public/screenshots/Mobile-view-screenshot.png)
 
 
 ### Links
