@@ -39,15 +39,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://raza7522.github.io/React-todo-app/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/todo-app-using-reactjs-D4LRexg6UW)
+- Live Site URL: [Live site URL](https://raza7522-todo-app-react.netlify.app/)
 
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
